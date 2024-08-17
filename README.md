@@ -2,7 +2,7 @@
 A library to generate a KPI trees (decomposition trees)
 
 ## Insatall
-```pip install git+https://github.com/yourusername/kpi_tree_lib.git```
+```pip install git+https://github.com/yshimasaki/kpi_tree_lib.git```
 
 ## Usage
 
